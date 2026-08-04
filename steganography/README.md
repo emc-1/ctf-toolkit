@@ -4,7 +4,7 @@
 2. Zsteg
 3. binwalk
 4. xxd
-5. hxd
+5. hexedit
 6. steghide
 
 ## Web
