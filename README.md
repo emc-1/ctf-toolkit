@@ -9,9 +9,9 @@ A personal collection of tools, scripts, and resources that I use for Capture Th
 ## Categories
 
 - Cryptography 
-- Web Exploitation 
+- Web Exploitation (coming soon)
 - Reverse Engineering 
-- Binary Exploitation 
+- Binary Exploitation (coming soon)
 - Forensics
 - Steganography
 
