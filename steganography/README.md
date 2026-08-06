@@ -1,14 +1,11 @@
 # Steganography
-## Local
 1. Exiftool
 2. Zsteg
 3. binwalk
 4. xxd
 5. hexedit
 6. steghide
-
-## Web
-1. Aperi'Solve - https://www.aperisolve.com/
+7. Aperi'Solve - https://www.aperisolve.com/
 
 ## File headers
 ### PNG
